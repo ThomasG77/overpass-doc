@@ -2,25 +2,24 @@ OpenStreetMap et l'API Overpass
 ===============================
 
 Comment fonctionne OpenStreetMap?
-Où là-dedans se trouve l'API Overpass?
+Comment se positionne l'API Overpass?
 
-## Qu'est-ce que est OpenStreetMap?
+## Qu'est-ce qu'OpenStreetMap?
 
-OpenStreetMap est premièrement une base des données géographiques de le monde entier.
-Les routes, rues, chemins de fér et eaux sont probablement présents complètement,
-et aussi les boutiques, restaurants leur noms et heures d'overture y compris sont très bienvenues.
+OpenStreetMap est premièrement une base des données géographiques couvrant le monde entier.
+Les routes, rues, chemins de fer et les rivières sont probablement présents complètement; les boutiques, restaurants ainsi que leurs noms et heures d'ouverture sont aussi très souvent renseignés.
 
-En général, tous qu'on peut observer sur place peuvent être ajoutés à OpenStreetMap.
-Pour example pour le nom, une rue a une plaque, un restaurant a un panneau sur la porte.
-Les noms d'un fleuve ou d'une ligne de chemin de fér sont souvent disponible de des panneaus explicatifs.
+En général, tous ce qu'on peut observer sur place peut être ajouté à OpenStreetMap.
+Pour exemple pour le nom, une rue a une plaque, un restaurant a un panneau sur sa porte.
+Les noms d'un fleuve ou d'une ligne de chemin de fer sont souvent disponible avec des panneaux explicatifs.
 
-Quelque exceptions existent mais ils sont rares.
-Le seul exception qui est accepté par tout le monde est les contours des pays, régions et villes.
+Quelques exceptions existent mais elles sont rares.
+Les seules exceptions acceptées par tout le monde sont les contours des pays, régions et villes.
 
-Les données personelles sont jamais enregristrées.
-Par example, on ne copie pas des noms sur de plaques de sonnette vers OpenStreetMap.
+Les données personnelles ne sont jamais enregistrées.
+Par exemple, on ne copie pas des noms sur des plaques de sonnette dans OpenStreetMap.
 
-Ça permet en conjunction avec 
+Ça permet en conjonction avec 
 ...
 <!--
 Dies erlaubt, zusammen mit der [freien Datenlizenz](https://wiki.osmfoundation.org/wiki/Licence),
@@ -46,7 +45,7 @@ Um zumindest im Prinzip jedem unabhängig von OpenStreetMap die Datenverarbeitun
 gibt es zusätzlich zum [Gesamtdatenbestand](https://planet.openstreetmap.org/) auch jede Minute eine Datei mit den Updates.
 -->
 
-## Qu'est-ce que est l'API Overpass?
+## Qu'est-ce que l'API Overpass?
 
 ...
 <!--
